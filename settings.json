@@ -1,27 +1,14 @@
 {
-
     "self_mode": true,
-
     "anti_delete": false,
-
     "anti_call": true,
-
     "autorespon_off": false,
-
-    "user_register": false,
-
+    "user_register": true,
 	"prefix": ".",
-
 	"ownerNumber": "6285240389682",
-
 	"ownername": "FATUR GANTENG",
-
-	"botname":"BOT LORD",
-
+	"botname" "LORD BOT",
 	"thumbnail":"logo.jpg",
-
 	"fakethumb":"logo.jpg",
-
 	"url_gif":"https://telegra.ph/file/c864fc477fa22e0d4bfc3.mp4"
-
 }
